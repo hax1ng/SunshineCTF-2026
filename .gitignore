@@ -1,0 +1,37 @@
+# Secrets / credentials — never commit
+.env
+.env.*
+*.pem
+*.key
+cookies.txt
+creds.txt
+c2.txt
+
+# CTF scratch / solve state
+flag.txt
+.flag-progress.json
+.probe-cache.json
+.parallel-cache.json
+*.log
+automation_logs/
+.organizer/
+
+# Reconstructed / bulky analysis artifacts
+git_dump/
+*.objdump
+trace*.txt
+gadgets*.txt
+
+# Bundled runtime libs (reproducible downloads)
+libc.so.6
+ld-linux-x86-64.so.2
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
