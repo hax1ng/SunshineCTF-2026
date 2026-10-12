@@ -5,6 +5,7 @@ Solutions, exploits, and writeups for **SunshineCTF 2026**.
 - **Event:** [SunshineCTF 2026](https://2026.sunshinectf.org/)
 - **Dates:** Sat 26 Sep 2026 09:00 CDT → Mon 28 Sep 2026 09:00 CDT
 - **Author:** hax1ng
+- **Placement:** 🥇 **1st place**
 - **Flag format:** `sun{...}`
 - **Solved:** 11 challenges across Forensics, Misc, Pwn, Rev, and Web
 
